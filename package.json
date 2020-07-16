@@ -1,0 +1,16 @@
+{
+  "name": "explore-babylonjs-nextjs-typescript",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/explore-babylonjs-nextjs-typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/explore-babylonjs-nextjs-typescript/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/explore-babylonjs-nextjs-typescript#readme"
+}
