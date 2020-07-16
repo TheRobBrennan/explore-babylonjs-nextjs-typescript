@@ -5,6 +5,11 @@
   "keywords": [],
   "author": "Rob Brennan <rob@therobbrennan.com> (therobbrennan.com)",
   "license": "ISC",
+  "scripts": {
+    "build": "next build",
+    "dev": "next",
+    "start": "next start"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/TheRobBrennan/explore-babylonjs-nextjs-typescript.git"
@@ -12,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/TheRobBrennan/explore-babylonjs-nextjs-typescript/issues"
   },
-  "homepage": "https://github.com/TheRobBrennan/explore-babylonjs-nextjs-typescript#readme"
+  "homepage": "https://github.com/TheRobBrennan/explore-babylonjs-nextjs-typescript#readme",
+  "dependencies": {
+    "next": "^9.4.4"
+  }
 }
