@@ -2,6 +2,8 @@
 
 You can view the current production version of this application at [https://explore-babylonjs-nextjs-typescript.vercel.app](https://explore-babylonjs-nextjs-typescript.vercel.app)
 
+![public/screenshots/screenshot-01.png](public/screenshots/screenshot-01.png)
+
 Core technologies powering this particular application include:
 
 - [Next.js](https://nextjs.org)
