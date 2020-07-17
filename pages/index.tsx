@@ -1,6 +1,11 @@
 import { NextPage } from "next"
+import Example00Container from "../src/containers/Example-00-Container"
 
 const IndexPage: NextPage = () => {
-  return <>Hello from TypeScript and Next.js!</>
+  return (
+    <>
+      <Example00Container />
+    </>
+  )
 }
 export default IndexPage
