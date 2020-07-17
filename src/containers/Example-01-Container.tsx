@@ -7,7 +7,6 @@ import {
   Material,
   Scene,
   SceneLoader,
-  UniversalCamera,
   Vector3,
 } from "@babylonjs/core"
 

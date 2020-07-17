@@ -2,6 +2,12 @@
 
 You can view the current production version of this application at [https://explore-babylonjs-nextjs-typescript.vercel.app](https://explore-babylonjs-nextjs-typescript.vercel.app)
 
+Original OBJ file
+![public/screenshots/screenshot-00.png](public/screenshots/screenshot-00.png)
+
+OBJ file loaded into 3D space with Babylon.js
+![public/screenshots/screenshot-01.png](public/screenshots/screenshot-01.png)
+
 Core technologies powering this particular application include:
 
 - [Next.js](https://nextjs.org)
