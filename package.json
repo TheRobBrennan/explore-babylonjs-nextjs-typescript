@@ -7,6 +7,7 @@
   "license": "ISC",
   "scripts": {
     "build": "next build",
+    "clean": "rm -rf .next && npm run dev",
     "dev": "next",
     "deploy": "vercel",
     "start": "next start"
@@ -28,6 +29,7 @@
   "devDependencies": {
     "@types/node": "^14.0.23",
     "@types/react": "^16.9.43",
+    "next-transpile-modules": "^3.3.0",
     "typescript": "^3.9.7"
   }
 }
