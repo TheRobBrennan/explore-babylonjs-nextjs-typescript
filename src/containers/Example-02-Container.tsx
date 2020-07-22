@@ -29,7 +29,7 @@ const onSceneReady = (scene) => {
   light.specular = new Color3(0.7, 0.42, 0.42)
 
   // Load our OBJ
-  SceneLoader.Append("./assets/", "sample-01.obj", scene, (newScene: Scene) => {
+  SceneLoader.Append("./assets/sample-01.obj", "", scene, (newScene: Scene) => {
     const { meshes, geometries } = scene
     console.log(
       `Successfully loaded asset -> ${meshes?.length} meshes :: ${geometries?.length} geometries`
