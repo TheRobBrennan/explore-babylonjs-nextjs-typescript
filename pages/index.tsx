@@ -1,5 +1,5 @@
 import { NextPage } from "next"
-import ExampleContainer from "../src/containers/Example-01-Container"
+import ExampleContainer from "../src/containers/Example-02-Container"
 
 const IndexPage: NextPage = () => {
   return (
